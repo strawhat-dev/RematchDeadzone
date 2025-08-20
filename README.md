@@ -3,10 +3,9 @@
 ## Who's this for?
 Do you play Rematch on PC using keyboard / mouse? Do you get PTSD every time you are about to attempt a pass because of shenanigans like this happening every other game?
 
-<figure>
-  <img alt="whoops" src="https://s14.gifyu.com/images/bNaBM.gif" />
-  <figcaption>Credits: u/Toluwar | <a href="https://www.reddit.com/r/Rematch/comments/1lee6b5/my_3rd_goal_also_how_do_i_pass_correctly_on_mouse/">Original Post</a></figcaption>
-</figure>
+| ![whoops](https://github.com/user-attachments/assets/5d1e967a-406f-424c-b429-edad5b8a18b1) | 
+|:--:| 
+| *Credits: u/Toluwar \| [Original Post](https://www.reddit.com/r/Rematch/comments/1lee6b5/my_3rd_goal_also_how_do_i_pass_correctly_on_mouse)* | 
 
 ... if so, maybe this can help. Accidents such as the above, is the result of any mouse movement at all impacting the direction of the pass. Since a deadzone has not been implemented yet (as of writing), even the smallest of micro movements of the mouse will result in your lobs going in a seemingly random direction. This fix aims to apply an artificial deadzone using AutohotKey, where only mouse movements beyond a given threshold will register, when any of the pass keys are pressed.
 
