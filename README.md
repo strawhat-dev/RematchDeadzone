@@ -4,7 +4,7 @@
 Do you play Rematch on PC using keyboard / mouse? Do you get PTSD every time you are about to attempt a pass because of shenanigans like this happening every other game?
 
 <figure>
-  <img alt="whoops" src="https://i.ibb.co/27MLS7vp/1lee6b5.gif" />
+  <img alt="whoops" src="https://s14.gifyu.com/images/bNaBM.gif" />
   <figcaption>Credits: u/Toluwar | <a href="https://www.reddit.com/r/Rematch/comments/1lee6b5/my_3rd_goal_also_how_do_i_pass_correctly_on_mouse/">Original Post</a></figcaption>
 </figure>
 
